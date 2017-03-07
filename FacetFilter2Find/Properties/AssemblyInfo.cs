@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FacetFilter2Find")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Adds facet filtering to EPiServer Find's .NET API")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Henrik Lindström, x2find")]
 [assembly: AssemblyProduct("FacetFilter2Find")]
-[assembly: AssemblyCopyright("Copyright © x2find 2016")]
+[assembly: AssemblyCopyright("Copyright © x2find 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

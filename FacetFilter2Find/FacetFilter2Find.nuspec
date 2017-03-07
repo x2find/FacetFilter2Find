@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>x2find</owners>
+    <projectUrl>https://github.com/x2find/FacetFilter2Find</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <dependencies>
+      <dependency id="EPiServer.Find" version="[8.0,13.0)" />
+      <dependency id="Newtonsoft.Json" version="[5.0.5,10.0)" />
+    </dependencies>
+  </metadata>
+</package>
